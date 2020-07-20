@@ -1,0 +1,1 @@
+|a b c|a:=false.b:=true.[(a) & (b)] whileFalse: [ Transcript show: 'Me la como/' ].

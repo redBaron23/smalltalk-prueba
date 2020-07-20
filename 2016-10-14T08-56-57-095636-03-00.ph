@@ -1,0 +1,1 @@
+|A|.Transcript show: 'hi there'

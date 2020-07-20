@@ -1,0 +1,1 @@
+| A |.A:= Cliente crearCliente: 'roberto' dni: 2123 tipo: 51 fecha: 31 precio: 51.A inspect.

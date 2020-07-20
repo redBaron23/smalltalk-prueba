@@ -1,0 +1,1 @@
+|c|c:=Robot crearRobot: 'Rolo'.c goposxRobot:20goposyRobot:30.1 to: 5 do: [:i| c moverRobot  ].c derechaRobot.1 to:10 do: [:i| c moverRobot  ].c derechaRobot.1 to:5 do: [:i| c moverRobot  ].c derechaRobot.1 to:10 do: [:i| c moverRobot  ].c inspect.

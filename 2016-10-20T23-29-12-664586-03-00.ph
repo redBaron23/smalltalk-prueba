@@ -1,0 +1,1 @@
+|a|a:=(UIManager default request: 'Ingrese dia') asInteger.a:=a+1.a inspect.

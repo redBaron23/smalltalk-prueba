@@ -1,0 +1,1 @@
+| A |.A:=UIManager default request: 'Hola papu'.A inspect. Transcript show: A.

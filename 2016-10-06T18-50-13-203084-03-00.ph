@@ -1,0 +1,1 @@
+|papu|.papu:= Persona crearPersona: 'Rodolfo'.papu inspect.

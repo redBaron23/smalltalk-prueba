@@ -1,0 +1,1 @@
+|cursoIng papu|cursoIng:= OrderedCollection new.1 to: 15 do: [:x| cursoIng add: 'Rocio'.				 cursoIng add: 'Quiroz'.				 cursoIng add: 'S2'.].cursoIng inspect.cursoIng size.cursoIng:= cursoIng select: [:x| x vernota >= 4 ].papu:= cursoIng reject: [ :x| vernota>=4 ].

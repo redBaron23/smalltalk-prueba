@@ -1,0 +1,1 @@
+|c|c:=Robot crearRobot: 'pepo'.c moverRobot.c inspect.

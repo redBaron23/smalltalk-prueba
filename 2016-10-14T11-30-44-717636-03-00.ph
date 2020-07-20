@@ -1,0 +1,1 @@
+| fibertel juan d m a cantc|.juan:= Cliente crearCliente: 'Roberto' dni:51251  tipo: 2131  ia: 12312 anio: 312 precio:5125  mes: 5121. fibertel:= Empresa crearEmpresa: 'Fibertel'.fibertel insertarCliente: juan.juan inspect.

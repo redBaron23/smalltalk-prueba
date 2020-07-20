@@ -1,0 +1,1 @@
+|alumnos alumno1 alumno2 alumno3 curso|alumno1:=Personaa crearPersona:'Pedro'. alumno2:=Personaa crearPersona:'Juan'. alumno3:=Personaa crearPersona:'Manuel'.alumnos:=OrderedCollection new.alumnos add:alumno1.alumnos add:alumno2.alumnos add:alumno3.((alumnos at:3) verNombre) inspect.

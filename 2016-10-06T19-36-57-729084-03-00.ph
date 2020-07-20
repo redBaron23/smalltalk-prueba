@@ -1,0 +1,1 @@
+|huevada|huevada:= OrderedCollection  new.huevada add: 'carlos'.huevada add: 2.huevada add: 1.huevada inspect.
